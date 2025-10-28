@@ -5,8 +5,8 @@ import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'دورة إضافات الرموش الاحترافية',
-  description: 'تعلم تقنيات إضافات الرموش الاحترافية مع دورة شاملة',
+  title: 'دورة تركيب الرموش الاحترافي',
+  description: 'تعلم تقنيات تركيب الرموش الاحترافي مع دورة شاملة',
   generator: 'v0.app',
 }
 
