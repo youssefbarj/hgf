@@ -8,7 +8,7 @@
 
 ## Screenshot
 
-![hgf](https://github.com/youssefbarj/hgf/raw/main/screenshot.png)
+![hgf](https://raw.githubusercontent.com/youssefbarj/hgf/main/screenshot.png)
 
 ## What this slide does
 
